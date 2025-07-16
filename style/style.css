@@ -82,7 +82,7 @@
 
         /* Hero Section */
         .hero {
-            background-image: url("../pics/Hình-2.jpg");
+            background-image: url(../pics/Hình-2.jpg);
             background-size: cover;
             background-position: center;
             height: 100vh;
